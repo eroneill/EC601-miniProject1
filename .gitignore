@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Temp. keys file
+*key*
+
+# VSCode
+.vscode
+
+# Don't commit test configure which includes your keys
+test.conf
