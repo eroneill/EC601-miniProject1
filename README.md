@@ -37,7 +37,9 @@ Note that the key file of GCP should be download directly from the offical site 
 
 ## Sprint 1
 
-Check out the JSON serialized Twitter response object [here](./home_timeline_sample.json),
+[User stories](./docs/user_stories.md) and [architecture](./docs/architecture.md) are placed in `docs` directory.
+
+For the demo part, please check out the JSON serialized Twitter response object [here](./home_timeline_sample.json),
 as well as the Google Cloud Platform sentiment analyze result of a simple sentence [here](./gcp_sentiment_sample).
 
 To reproduce these result, please set up `test.conf` file, and then follow the instruction in **Setup and Running Test** section.
